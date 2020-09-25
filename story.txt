@@ -1,4 +1,1 @@
-beginning:
-Once upon a time there was a girl named Ellie. She spent all her days trying to figure out calculus and computer science. 
-Even though there are a lot of assignments, she is really trying to get her degree. She sits in the apartment with her
-trusty laptop and a family sized bag of popcorn, trying to decipher runtimes and derivatives. 
+Once upon a time there was a girl named Ellie. She spent all her days trying to figure out calculus and computer science. Even though there were a lot of assignments, she was really trying to get her degree. She sat in the apartment with her trusty laptop and a family sized bag of popcorn, trying to decipher runtimes and derivatives. 
